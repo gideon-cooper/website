@@ -198,6 +198,13 @@ input[class^="btn-"]:hover {
   }
 }
 
+@media (min-width: 1200px) {
+  body {
+    font-size: 1.5rem;
+  }
+
+}
+
 //Media
 @media (max-width: 768px) {
   #header-home {

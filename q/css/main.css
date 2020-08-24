@@ -152,6 +152,11 @@ input[class^=btn-]:hover {
   padding-bottom: 0.4rem;
 }
 
+@media (min-width: 1200px) {
+  body {
+    font-size: 1.5rem;
+  }
+}
 @media (max-width: 768px) {
   #header-home {
     height: 30rem;
